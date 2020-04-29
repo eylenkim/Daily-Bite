@@ -1,0 +1,25 @@
+{
+  "name": "dailytaste",
+  "version": "1.0.0",
+  "description": "Daily Taste Site",
+  "main": "file:///Users/eylen/Documents/GitHub/GitHub/Daily-Taste/src/index.html",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eylenkim/Daily-Taste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eylenkim/Daily-Taste/issues"
+  },
+  "homepage": "https://github.com/eylenkim/Daily-Taste#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {}
+}
