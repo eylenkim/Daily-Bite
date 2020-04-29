@@ -1,8 +1,8 @@
 {
   "name": "dailytaste",
   "version": "1.0.0",
-  "description": "Daily Taste Site",
-  "main": "file:///Users/eylen/Documents/GitHub/GitHub/Daily-Taste/src/index.html",
+  "description": "Daily Bite Site",
+  "main": "file:///Users/eylen/Documents/GitHub/GitHub/Daily-Bite/src/index.html",
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production"
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eylenkim/Daily-Taste/issues"
+    "url": "https://github.com/eylenkim/Daily-Bite/issues"
   },
-  "homepage": "https://github.com/eylenkim/Daily-Taste#readme",
+  "homepage": "https://github.com/eylenkim/Daily-Bite#readme",
   "devDependencies": {
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
